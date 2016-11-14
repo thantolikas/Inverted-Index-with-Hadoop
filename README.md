@@ -25,3 +25,5 @@ Example of execution:
 
 hadoop jar /home/kds.jar 5 5 10 /user/hduser/project/input
 /user/hduser/project/output
+
+*See the commited input folder as an example*
