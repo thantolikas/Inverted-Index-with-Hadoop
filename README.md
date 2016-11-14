@@ -18,7 +18,7 @@ The input path should containt an "input" folder which consists of:
 The files should not containt ".txt" in their names
 
 The "centers" file should be of this form:
-<group> <vector>
+*group* *vector*
 e.g 3 0 1 0 1 0
 
 Example of execution:
